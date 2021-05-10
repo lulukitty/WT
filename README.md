@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### Hi visitor
+I'm Olaoluwakiitan Kunle-Anjorin from Lagos, Nigeria
+- 🌱 I’m currently learning to be a Software Developer via the Women Techster program
+- 👯 I’m looking to collaborate on IT projects as I embark on this new journey
+- ⚡ Fun fact: 
+      - love meeting people
+      - love gardening
+      - love fine dinning
